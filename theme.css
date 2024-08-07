@@ -55,8 +55,7 @@ html {
   height: 100%;
 }
 
-
-.backgroundContainer.withBackdrop {
+.layout-desktop .backgroundContainer.withBackdrop {
   background-color: transparent;
 }
 
