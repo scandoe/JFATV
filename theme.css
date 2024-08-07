@@ -206,6 +206,10 @@ html {
   padding: 1.75em 1.7em;
 }
 
+.cardScalable {
+  border-radius: 12px;
+}
+
 /* Seccion Peliculas/Series */
 
 .layout-mobile .itemTags,
