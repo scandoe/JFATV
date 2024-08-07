@@ -48,15 +48,16 @@ html {
   position: relative;
 }
 
-.backgroundContainer.withBackdrop {
-  background: transparent
-}
-
 .layout-desktop .itemBackdrop:after {
   background: url("../../themes/mytheme/mask.png");
   background-size: cover;
   width: 100%;
   height: 100%;
+}
+
+
+.backgroundContainer.withBackdrop {
+  background: transparent
 }
 
 .layout-desktop .detailPageWrapperContainer {
