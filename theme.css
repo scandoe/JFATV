@@ -48,7 +48,7 @@ html {
   position: relative;
 }
 
-.layout-desktop .backgroundContainer.withBackdrop {
+.backgroundContainer.withBackdrop {
   background: transparent
 }
 
